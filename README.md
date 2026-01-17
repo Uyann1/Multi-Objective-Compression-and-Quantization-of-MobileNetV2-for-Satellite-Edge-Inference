@@ -1,4 +1,4 @@
-# Multi-Objective Model Compression and Quantization for Satellite Edge Inference
+# Multi Objective Compression and Quantization of MobileNetV2 for Satellite Edge Inference
 
 ## Overview
 This project investigates post-training model compression and quantization strategies for deploying convolutional neural networks on resource-constrained satellite onboard hardware.
